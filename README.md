@@ -1,8 +1,8 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<h1 align="center">Hi 👋, I'm Ogulcan Gurelli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-A passionate Front End Developer, open-source enthusiast, and a student from India.
+<h1 align="center">Hi 👋, I'm Oljen</h1>
+<h3 align="center">A passionate frontend developer from London</h3>
+A passionate Front End Developer, open-source enthusiast, and a student from Queen Mary University.
 
 - 🔭 I’m currently working on **My Personal Projects**
 
@@ -10,7 +10,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 
 - 💬 Ask me about **Development, Coding**
 
-- 👨‍💻  All of my projects are available <a href="https://github.com/Rdrudra99">@Rdruda99</a>
+- 👨‍💻  All of my projects are available <a href="https://github.com/oljen">@oljen</a>
 
 - 📫 How to reach me **rd.rudra99@gmail.com**
 
