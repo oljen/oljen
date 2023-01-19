@@ -12,9 +12,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Que
 
 - 👨‍💻  All of my projects are available <a href="https://github.com/oljen">@oljen</a>
 
-- 📫 How to reach me **rd.rudra99@gmail.com**
 
-- ⚡ Fun fact **Coding is a passion and not a profession.**
 
 
 
@@ -75,4 +73,4 @@ A passionate Front End Developer, open-source enthusiast, and a student from Que
 ![Contribution snake example](https://github.com/Rdrudra99/Rdrudra99/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Rdrudra99"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rdrudra99" /></a></p><br><br>
+<p align="center"><a href="> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
