@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Oljen</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
-A passionate Front End Developer, open-source enthusiast, and a student from Queen Mary University.
 
-- 🔭 I’m currently working on **My Personal Projects**
+- 🔭 I’m currently working on a Python Based Medical Application
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning PANDAS.
 
 - 💬 Ask me about **Development, Coding**
 
