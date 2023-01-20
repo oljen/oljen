@@ -1,4 +1,4 @@
-![Banner](https://tenor.com/view/chilling-cyberpunk-edgerunners-rocking-left-and-right-relaxing-sight-seeing-gif-25909275)
+
 ![tumblr_7d7916290ee905bba571911f6f168680_a51b66e5_1280](https://user-images.githubusercontent.com/94927686/213793989-5c650f50-8368-4bda-a42d-3e810556469b.gif)
 
 <h1 align="center">Hi 👋, I'm Oljen</h1>
