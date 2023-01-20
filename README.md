@@ -1,4 +1,4 @@
-![Banner](https://tenor.com/en-GB/view/cyberpunk-gif-14522842)
+![Banner](https://tenor.com/view/chilling-cyberpunk-edgerunners-rocking-left-and-right-relaxing-sight-seeing-gif-25909275)
 
 <h1 align="center">Hi 👋, I'm Oljen</h1>
 <h3 align="center">LONDON</h3>
