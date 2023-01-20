@@ -1,7 +1,7 @@
 
 ![tumblr_7d7916290ee905bba571911f6f168680_a51b66e5_1280](https://user-images.githubusercontent.com/94927686/213793989-5c650f50-8368-4bda-a42d-3e810556469b.gif)
 
-<h1 align="center">Hi 👋, I'm Oljen</h1>
+<h1 align="center">⚡ OLJEN 🌃</h1>
 <h3 align="center">LONDON</h3>
 
 - 🔭 I’m currently working on a Python Based Medical Application
