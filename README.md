@@ -28,7 +28,7 @@
 <details align="center">
  
   
-  </details>      
+
 
 
   <div align="center">
