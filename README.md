@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning PANDAS.
 
-- 💬 Ask me about **ANYTHING**
+- 💬 Ask me about **ANYTHING THAT YOU WANT**
 
 - 👨‍💻  All of my projects are available <a href="https://github.com/oljen">@oljen</a>
 
