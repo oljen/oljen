@@ -43,8 +43,6 @@
 
 </div>
 
-## My Contribution snake
-![Contribution snake example](https://github.com/Rdrudra99/Rdrudra99/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
